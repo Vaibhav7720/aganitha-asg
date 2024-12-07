@@ -33,8 +33,8 @@ The Weather App provides the following features:
 
 1. *Clone the Repository:*
    bash
-   git clone 
-   cd SkyCast
+   git clone https://github.com/Vaibhav7720/aganitha-asg.git
+   cd aganitha-asg
    
 2. **Install Dependencies:**
    bash
