@@ -33,13 +33,16 @@ The Weather App provides the following features:
 
 1. *Clone the Repository:*
    bash
+   
    git clone https://github.com/Vaibhav7720/aganitha-asg.git
+   
    cd aganitha-asg
    
-2. **Install Dependencies:**
+3. **Install Dependencies:**
    bash
    npm install
 
-3. *Run the Development Server:*
+4. *Run the Development Server:*
    ```bash
+   
    npm run dev
